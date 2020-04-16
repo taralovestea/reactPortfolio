@@ -16,7 +16,7 @@ return <div class="section-dark resume">
         </div>
         <div class="column is-10 has-text-centered is-offset-1">
             <h2 class="subtitle">
-                My experience is a culmination of my love of adventure and my sense of purpose.
+                My experiences are a culmination of my love of adventure and my sense of purpose.
 </h2>
     <form action="https://www.linkedin.com/in/taraelisabethhughes/">
                 <button class="button">

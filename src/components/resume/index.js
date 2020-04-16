@@ -20,7 +20,7 @@ return <div class="section-dark resume">
 </h2>
     <form action="https://www.linkedin.com/in/taraelisabethhughes/">
                 <button class="button">
-                Go to LinkedIn &emsp;<i class="fad fa-download fa-lg"></i>
+                Go to my LinkedIn &emsp;<i class="fad fa-download fa-lg"></i>
                 </button>
 
         </form>
